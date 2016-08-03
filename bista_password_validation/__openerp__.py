@@ -10,8 +10,8 @@
     'author': 'Bista Solutions Pvt. Ltd.',
     'website': 'http://www.bistasolutions.com',
     'depends': ['auth_signup'],
-    'price': '500',
-    'currency': 'USD',
+    'price': '446.09',
+    'currency': 'EUR',
     'data': [
         'security/ir.model.access.csv',
         'views/change_password_views.xml',
